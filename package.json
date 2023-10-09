@@ -1,0 +1,19 @@
+{
+  "name": "react-native-alphabet-slider",
+  "version": "1.0.0",
+  "description": "An alphabetic slider component that will move the scroll position of an alphabetically-ordered FlatList to the poisition of the letter pressed on the slider. Works similar to the contacts app on iOS.    ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react native",
+    "ios",
+    "android",
+    "FlatList",
+    "alphabet",
+    "alphabet slider"
+  ],
+  "author": "Nick Przebienda",
+  "license": "ISC"
+}
