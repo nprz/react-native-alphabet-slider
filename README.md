@@ -1,7 +1,8 @@
 ## Alphabet Slider
 
-SkeletonPlaceholder is a React Native library to easily create an amazing loading effect with FlexBox.<br/>
-Android and iOS
+An alphabetic slider component that will move the scroll position of an alphabetically-ordered FlatList to the poisition of the letter pressed on the slider.
+
+![alphabet-slider](https://github.com/nprz/react-native-alphabet-slider/assets/17592222/be69970f-d476-4b47-9227-24aefdf05346)
 
 ### Installation
 
