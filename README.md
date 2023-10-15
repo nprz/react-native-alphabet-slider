@@ -7,13 +7,13 @@ An alphabetic slider component that will move the scroll position of an alphabet
 ### Installation
 
 ```bash
-npm i alphabet-slider-react-native
+npm i react-native-alphabet-slider
 ```
 
 or 
 
 ```bash
-yarn add alphabet-slider-react-native
+yarn add react-native-alphabet-slider
 ```
 
 ### Usage
