@@ -62,7 +62,7 @@ const App = () => {
             keyExtractor={item => item.id}
             ref={flatListRef}
         />
-        <FlatList flatListRef={flatListRef} data={DATA} path="title" />
+        <AlphabetSlider flatListRef={flatListRef} data={DATA} path="title" />
         </View>
     );
 };
